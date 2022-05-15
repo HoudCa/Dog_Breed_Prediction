@@ -110,7 +110,7 @@ nlp = spacy.load('en_core_web_sm')
 pos_list = ["NOUN","PROPN"]
 
 # Load pre-trained models
-model_path = "C:/Users/Houda/Documents/OpenClassrooms/P5/"
+model_path = "static/models/"
 vectorizer = joblib.load(model_path + "tfidf_vectorizer_tag.pkl", 'r')
 model = joblib.load(model_path + "logit_nlp_model_tag.pkl", 'r')
 multilabel_binarizer = joblib.load(model_path + "multilabel_binarizer_tag.pkl", 'r')
