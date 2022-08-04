@@ -10,6 +10,7 @@
 - Utiliser le transfert learning et ainsi utiliser un réseau déjà entrainé.
     
 4- Développer une application Web ou mobile pour traiter des images de chien fournies par l'utilisateur. Étant donné une image d'un chien, notre algorithme identifie une estimation de la race du chien.
+![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/main/Img_Dog_prediction.png)
 
 ## Données
 L'ensemble de données [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) contient des images de 120 races de chiens du monde entier. Cet ensemble de 
@@ -26,5 +27,8 @@ Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognitio
 
 ## Dépendances
 Ce projet utilise principalement Python Jupyter Notebooks, OpenCV, tensorflow, Keras, sklearn, PIL
+## Instruction
+Téléchargez le Notebook et importez-le de préférence dans Google Colaboratoty, Kaggle ou Jupyter via Anaconda.
+Ensuite, effectuez simplement "Run all" pour exécuter le projet.
 
-![Dog prediction](https://github.com/tograh/testrepository/master/3DTest.png)
+
