@@ -26,3 +26,5 @@ Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognitio
 
 ## Dépendances
 Ce projet utilise principalement Python Jupyter Notebooks, OpenCV, tensorflow, Keras, sklearn, PIL
+
+![Dog prediction](https://github.com/tograh/testrepository/master/3DTest.png)
