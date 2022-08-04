@@ -10,7 +10,8 @@
 - Utiliser le transfert learning et ainsi utiliser un réseau déjà entrainé.
     
 4- Développer une application Web ou mobile pour traiter des images de chien fournies par l'utilisateur. Étant donné une image d'un chien, notre algorithme identifie une estimation de la race du chien.
-![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/main/Img_Dog_prediction.png)
+
+![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/Img_Dog_prediction.png)
 
 ## Données
 L'ensemble de données [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) contient des images de 120 races de chiens du monde entier. Cet ensemble de 
