@@ -12,10 +12,17 @@
 4- Développer une application Web ou mobile pour traiter des images de chien fournies par l'utilisateur. Étant donné une image d'un chien, notre algorithme identifie une estimation de la race du chien.
 
 ## Données
-L'ensemble de données [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) contient des images de 120 races de chiens du monde entier. Cet ensemble de données a été construit à l'aide d'images et d'annotations d'ImageNet pour la tâche de catégorisation fine des images. Il a été initialement collecté pour la catégorisation des images à grain fin, un problème difficile car certaines races de chiens ont des caractéristiques presque identiques ou diffèrent par la couleur et l'âge.
+L'ensemble de données [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) contient des images de 120 races de chiens du monde entier. Cet ensemble de 
+données a été construit à l'aide d'images et d'annotations d'ImageNet pour la tâche de catégorisation fine des images. Il a été initialement collecté pour la 
+catégorisation des images à grain fin, un problème difficile car certaines races de chiens ont des caractéristiques presque identiques ou diffèrent par la couleur et 
+l'âge.
 
 - Nombre de catégories : 120
 - Nombre d'images : 20 580
 - Annotations : étiquettes de classe, boîtes englobantes
 
-*Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011*
+*Aditya Khosla, Nityananda Jayadevaprakash, Bangpeng Yao and Li Fei-Fei. Novel dataset for Fine-Grained Image Categorization. First Workshop on Fine-Grained Visual 
+Categorization (FGVC), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2011*
+
+## Dépendances
+Ce projet utilise principalement Python Jupyter Notebooks, OpenCV, tensorflow, Keras, sklearn, PIL
