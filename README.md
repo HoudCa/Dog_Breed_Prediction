@@ -39,4 +39,4 @@ J'ai déployé l'application en utilisant 2 méthodes :
 
 2- en utilisant ![**Gradio**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/app.py)
 
-![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/api_dog.jpg)
+![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/aapi_dog.JPG)
