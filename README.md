@@ -38,3 +38,5 @@ J'ai déployé l'application en utilisant 2 méthodes :
 ![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/Img_Dog_prediction.png)
 
 2- en utilisant ![**Gradio**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/app.py)
+
+![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/api_dog.jpg)
