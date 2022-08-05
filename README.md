@@ -34,6 +34,7 @@ Ensuite, effectuez simplement "Run all" pour exécuter le projet.
 
 ## Application 
 J'ai déployé l'application en utilisant 2 méthodes :
-1- en utilisant ![**Streamlit**](https://github.com/HoudCa/Dog_Breed_Prediction/main/main-app)
+
+1- en utilisant ![**Streamlit**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/main-app)
 ![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/Img_Dog_prediction.png)
-2- en utilisant **Gradio**
+2- en utilisant ![**Gradio**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/app)
