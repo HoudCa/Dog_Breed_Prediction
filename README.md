@@ -11,8 +11,6 @@
     
 4- Développer une application Web ou mobile pour traiter des images de chien fournies par l'utilisateur. Étant donné une image d'un chien, notre algorithme identifie une estimation de la race du chien.
 
-![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/Img_Dog_prediction.png)
-
 ## Données
 L'ensemble de données [Stanford Dogs](http://vision.stanford.edu/aditya86/ImageNetDogs/) contient des images de 120 races de chiens du monde entier. Cet ensemble de 
 données a été construit à l'aide d'images et d'annotations d'ImageNet pour la tâche de catégorisation fine des images. Il a été initialement collecté pour la 
@@ -35,6 +33,8 @@ Ensuite, effectuez simplement "Run all" pour exécuter le projet.
 ## Application 
 J'ai déployé l'application en utilisant 2 méthodes :
 
-1- en utilisant ![**Streamlit**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/main-app)
+1- en utilisant ![**Streamlit**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/main-app.py)
+
 ![Dog prediction](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/Img_Dog_prediction.png)
-2- en utilisant ![**Gradio**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/app)
+
+2- en utilisant ![**Gradio**](https://github.com/HoudCa/Dog_Breed_Prediction/blob/main/app.py)
